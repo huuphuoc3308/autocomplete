@@ -18,7 +18,7 @@ Our most popular product is Autocomplete. As you type, Fig pops up subcommands, 
 
 ## ⚡️ Installation
 
-- **macOS**:
+- **macOS**..:
   - **DMG**: Download from our website: [fig.io](https://fig.io/welcome)
   - **Homebrew**: `brew install fig`
 - **Windows/Linux**:
